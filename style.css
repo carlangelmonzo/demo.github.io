@@ -1,0 +1,535 @@
+.homepage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.homepage .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1041px;
+    position: relative;
+}
+
+.homepage .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 785px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/12877.png);
+    background-size: 100% 100%;
+}
+
+.homepage .group {
+    position: absolute;
+    width: 995px;
+    height: 51px;
+    top: 31px;
+    left: 414px;
+}
+
+.homepage .group-2 {
+    position: absolute;
+    width: 830px;
+    height: 50px;
+    top: 1px;
+    left: 0;
+}
+
+.homepage .overlap-group-wrapper {
+    position: absolute;
+    width: 145px;
+    height: 50px;
+    top: 0;
+    left: 685px;
+    overflow: hidden;
+}
+
+.homepage .overlap-group {
+    position: relative;
+    width: 147px;
+    height: 52px;
+    top: -1px;
+    left: -1px;
+    border-radius: 25px;
+    border: 1px solid;
+    border-color: #013c5e;
+}
+
+.homepage .post-job {
+    position: absolute;
+    width: 110px;
+    top: 14px;
+    left: 18px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #013c5e;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .group-3 {
+    position: absolute;
+    width: 548px;
+    height: 20px;
+    top: 15px;
+    left: 0;
+    overflow: hidden;
+}
+
+.homepage .overlap-2 {
+    position: absolute;
+    width: 352px;
+    height: 21px;
+    top: -1px;
+    left: -67px;
+}
+
+.homepage .pricing {
+    width: 69px;
+    top: 0;
+    left: 248px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #484848;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .group-4 {
+    position: absolute;
+    width: 352px;
+    height: 20px;
+    top: 1px;
+    left: 0;
+}
+
+.homepage .text-wrapper {
+    width: 44px;
+    top: -1px;
+    left: 116px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #484848;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .download {
+    width: 76px;
+    top: -2px;
+    left: 253px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #484848;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .download-2 {
+    width: 119px;
+    top: 0;
+    left: 296px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #484848;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .text-wrapper-2 {
+    position: absolute;
+    width: 76px;
+    top: -2px;
+    left: 479px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #484848;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .overlap-wrapper {
+    position: absolute;
+    width: 145px;
+    height: 50px;
+    top: 0;
+    left: 850px;
+    overflow: hidden;
+}
+
+.homepage .overlap-3 {
+    position: relative;
+    width: 170px;
+    height: 52px;
+    top: -1px;
+    left: -12px;
+}
+
+.homepage .rectangle {
+    position: absolute;
+    width: 147px;
+    height: 52px;
+    top: 0;
+    left: 11px;
+    background-color: #0086ca;
+    border-radius: 25px;
+}
+
+.homepage .get-hired {
+    position: absolute;
+    width: 170px;
+    top: 15px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .overlap-4 {
+    position: absolute;
+    width: 960px;
+    height: 397px;
+    top: 286px;
+    left: 19px;
+}
+
+.homepage .group-5 {
+    position: absolute;
+    width: 706px;
+    height: 397px;
+    top: 0;
+    left: 0;
+}
+
+.homepage .connect-merge-work {
+    position: absolute;
+    width: 951px;
+    top: 39px;
+    left: 9px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #013c5e;
+    font-size: 72px;
+    letter-spacing: 0;
+    line-height: 83px;
+}
+
+.homepage .group-6 {
+    position: absolute;
+    width: 1077px;
+    height: 188px;
+    top: 836px;
+    left: 195px;
+}
+
+.homepage .element-link {
+    position: absolute;
+    width: 41px;
+    height: 40px;
+    top: 0;
+    left: 117px;
+}
+
+.homepage .overlap-5 {
+    position: relative;
+    height: 40px;
+}
+
+.homepage .overlap-group-2 {
+    position: absolute;
+    width: 41px;
+    height: 40px;
+    top: 0;
+    left: 0;
+}
+
+.homepage .shape {
+    position: absolute;
+    width: 30px;
+    height: 27px;
+    top: 13px;
+    left: 0;
+}
+
+.homepage .path {
+    position: absolute;
+    width: 27px;
+    height: 24px;
+    top: 16px;
+    left: 3px;
+}
+
+.homepage .img {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    top: 30px;
+    left: 30px;
+}
+
+.homepage .path-2 {
+    position: absolute;
+    width: 5px;
+    height: 3px;
+    top: 23px;
+    left: 35px;
+}
+
+.homepage .path-3 {
+    position: absolute;
+    width: 5px;
+    height: 3px;
+    top: 14px;
+    left: 1px;
+}
+
+.homepage .path-4 {
+    position: absolute;
+    width: 3px;
+    height: 5px;
+    top: 35px;
+    left: 23px;
+}
+
+.homepage .path-5 {
+    position: absolute;
+    width: 3px;
+    height: 5px;
+    top: 1px;
+    left: 14px;
+}
+
+.homepage .path-6 {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+    left: 13px;
+}
+
+.homepage .group-7 {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 3px;
+    left: 16px;
+}
+
+.homepage .path-7 {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    top: 6px;
+    left: 6px;
+}
+
+.homepage .element-merge {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 518px;
+}
+
+.homepage .element-portfolio {
+    position: absolute;
+    width: 40px;
+    height: 36px;
+    top: 2px;
+    left: 917px;
+}
+
+.homepage .group-8 {
+    height: 129px;
+    left: 0;
+    position: absolute;
+    width: 275px;
+    top: 59px;
+}
+
+.homepage .text-wrapper-3 {
+    position: absolute;
+    top: -1px;
+    left: 116px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #484848;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .staffmerge-s-mission {
+    position: absolute;
+    width: 270px;
+    top: 34px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #828282;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.homepage .group-9 {
+    height: 129px;
+    left: 401px;
+    position: absolute;
+    width: 275px;
+    top: 59px;
+}
+
+.homepage .text-wrapper-4 {
+    position: absolute;
+    top: -1px;
+    left: 112px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #484848;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .p {
+    position: absolute;
+    width: 275px;
+    top: 32px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #828282;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.homepage .group-10 {
+    height: 109px;
+    left: 802px;
+    position: absolute;
+    width: 275px;
+    top: 59px;
+}
+
+.homepage .mask-wrapper {
+    position: absolute;
+    width: 1157px;
+    height: 652px;
+    top: 1100px;
+    left: 381px;
+    background-color: #ffffff;
+    box-shadow: 20px 22px 39px #6e6e6e31;
+}
+
+.homepage .mask {
+    height: 652px;
+    background-color: #e1ebf0;
+    opacity: 0.36;
+}
+
+.homepage .img-wrapper {
+    position: absolute;
+    width: 1155px;
+    height: 650px;
+    top: 1260px;
+    left: -10351px;
+    background-image: url(./img/object.png);
+    background-size: 100% 100%;
+}
+
+.homepage .mask-2 {
+    position: absolute;
+    width: 1155px;
+    height: 650px;
+    top: 0;
+    left: 0;
+}
+
+.homepage .group-11 {
+    position: absolute;
+    width: 1097px;
+    height: 670px;
+    top: 2100px;
+    left: -10321px;
+}
+
+.homepage .overlap-6 {
+    position: absolute;
+    width: 297px;
+    height: 107px;
+    top: 194px;
+    left: -10712px;
+}
+
+.homepage .job-seekers-logo {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 0;
+    left: 16px;
+    object-fit: cover;
+}
+
+.homepage .pina-career-hub {
+    position: absolute;
+    width: 269px;
+    height: 30px;
+    top: 19px;
+    left: 28px;
+}
+
+.homepage .job-seekers-logo-2 {
+    position: absolute;
+    width: 96px;
+    height: 103px;
+    top: 4px;
+    left: 0;
+    object-fit: cover;
+}
+
+.homepage .unlimited-job-posts {
+    position: absolute;
+    width: 142px;
+    height: 72px;
+    top: -177px;
+    left: -10710px;
+}
+
+.homepage .pos {
+    position: absolute;
+    width: 351px;
+    height: 50px;
+    top: 764px;
+    left: -10551px;
+}
